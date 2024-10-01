@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.GridinAE.Sprint2.Task2.V30.Lib\Tyuiu.GridinAE.Sprint2.Task2.V30.Lib.csproj" />
+  </ItemGroup>
+
 </Project>
