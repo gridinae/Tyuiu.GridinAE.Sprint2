@@ -1,7 +1,7 @@
 ﻿
 using Tyuiu.GridinAE.Sprint2.Task1.V17.Lib;
 
-Console.Title = "Спринт #1 | Выполнил: Гридин А. Е. | ИИПБ-24-2";
+Console.Title = "Спринт #2 | Выполнил: Гридин А. Е. | ИИПБ-24-2";
 Console.WriteLine("************************************************************************");
 Console.WriteLine("* Спринт #2                                                            *");
 Console.WriteLine("* Тема: Логические операции                                            *");
