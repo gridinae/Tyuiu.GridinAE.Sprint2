@@ -12,5 +12,6 @@ public class DataServiceTest
         Assert.AreEqual(true, dataService.CheckDotInShadedArea(6, 9));
         Assert.AreEqual(false, dataService.CheckDotInShadedArea(2, 3));
         Assert.AreEqual(false, dataService.CheckDotInShadedArea(8, 8));
+
     }
 }
