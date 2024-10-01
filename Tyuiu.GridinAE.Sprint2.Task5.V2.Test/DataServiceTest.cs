@@ -7,9 +7,9 @@ public class DataServiceTest
     public void ValidFindMonthSeason()
     {
         DataService dataService = new DataService();
-        Assert.AreEqual("Зима", dataService.FindMonthSeason(12));
-        Assert.AreEqual("Весна", dataService.FindMonthSeason(3));
-        Assert.AreEqual("Осень", dataService.FindMonthSeason(9));
-        Assert.AreEqual("Лето", dataService.FindMonthSeason(6));
+        Assert.AreEqual("зима", dataService.FindMonthSeason(12));
+        Assert.AreEqual("весна", dataService.FindMonthSeason(3));
+        Assert.AreEqual("осень", dataService.FindMonthSeason(9));
+        Assert.AreEqual("лето", dataService.FindMonthSeason(6));
     }
 }
